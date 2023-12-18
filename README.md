@@ -13,7 +13,7 @@ Esta aplicação web, desenvolvida com Streamlit, busca e exibe a etimologia de 
 2. Selecione o idioma no qual deseja buscar a etimologia.
 3. Clique em 'Pesquisar etimologia' para ver os resultados.
 
-## Tecnologias Utilizadas
+## [Tecnologias Utilizadas](requirements.txt)
 
 - Python
 - Streamlit
